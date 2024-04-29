@@ -1,8 +1,8 @@
 ### Hello, I'm Kyle 👋
 
-I am 19 years old.
+I'm 19 years old.
 
-I am currently a student at the University of Florida studying computer science with a minor in mathematics.
+I'm currently a student at the University of Florida studying computer science with a minor in mathematics.
 
 I’m looking to collaborate on future projects with friends.
 <!--
