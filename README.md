@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello, I'm Kyle 👋
 
+I am currently a student at the University of Florida studying computer science with a minor in mathematics.
+
+- 🔭 I’m currently working on Minesweeper using SFML
+- 🌱 I’m currently learning how to work with SFML integration
+- 👯 I’m looking to collaborate on future projects with friends
+- 🤔 I’m always looking to learn new things
+- 💬 Ask me about Python or C++
+- 📫 How to reach me: scarmackkyle@ufl.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I am 19
 <!--
 **kyleScarmack/kyleScarmack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
